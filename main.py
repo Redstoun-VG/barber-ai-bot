@@ -17,7 +17,7 @@ import asyncio
 
 TOKEN = "YOUR_BOT_TOKEN"
 
-ADMIN_ID = 660138663
+ADMIN_ID = "YOUR_ADMIN_ID"
 
 
 bot = Bot(token=TOKEN)
