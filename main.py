@@ -15,7 +15,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 import asyncio
 
 
-TOKEN = "8912169175:AAF7Dl-RBWKgPtPseJP7bBARKQFukfnhVic"
+TOKEN = "YOUR_BOT_TOKEN"
 
 ADMIN_ID = 660138663
 
